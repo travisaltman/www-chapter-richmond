@@ -18,7 +18,7 @@ postal-code: 23218
 
 OWASP Richmond
 -------------
-Welcome to the Richmond  chapter homepage.
+Welcome to the Richmond chapter homepage.
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
